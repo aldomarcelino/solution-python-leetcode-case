@@ -1,0 +1,2 @@
+def longestCommonPrefix(list):
+    pass
